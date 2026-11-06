@@ -1,0 +1,14 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
